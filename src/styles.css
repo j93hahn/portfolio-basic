@@ -3,11 +3,11 @@ body {
 }
 
 section {
-    background-color: white;
+    background-color: #f8ba9c;
 }
 
 .hero {
-    background-color: #1c1d25;
+    background-color: #2c2a29;
     height: 100vh;
     color: white;
     font-size: 40px; 
@@ -76,13 +76,13 @@ p {
 
 .button {
     width: 200px;
-    height: 55px;
+    height: 40px;
     border-radius: 30px;
-    background-color: coral;
+    background-color: #ef744b;
     text-align: center;
     font-size: 30px; 
     font-weight: 300;
-    padding-top: 5px;
+    padding-top: 13px;
     margin-top: 20px;
 }
 
@@ -129,6 +129,8 @@ p {
 .headshot-container {
     display: flex; 
     align-items: center; 
+    margin-left: 100px;
+    margin-top: 30px;
 }
 
 .project-container {
@@ -144,9 +146,10 @@ p {
 }
 
 .project-card {
+    background-color: rgb(255, 255, 255);
     width: 300px;
     height: 500px; 
-    box-shadow: 5px 5px 20px rgb(184, 183, 183);
+    box-shadow: 5px 5px 20px rgb(22, 20, 20);
     margin: 10px; 
 }
 
@@ -163,7 +166,7 @@ hr {
 
 .project-link {
     text-decoration: none; 
-    color: #ef744b;
+    color: #ab18be;
 }
 
 a {
